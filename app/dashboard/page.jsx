@@ -32,7 +32,7 @@ const activities = [
     description: "Test your knowledge with fun quizzes on different topics!",
     image: "/quiz.jpg",
     color: "bg-green-500",
-    link: "/quiz",
+    link: "/dashboard/quiz",
   },
   {
     id: 5,
